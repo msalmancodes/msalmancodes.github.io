@@ -1,1 +1,0 @@
-import{f as e,a as i}from"../chunks/DPiMJT20.js";import{b as f,E as p,g as c,n as d,o as v,h,i as l,q as m,t as _}from"../chunks/CYpDlaQ0.js";function u(r,s,...a){var n=r,t=d,o;f(()=>{t!==(t=s())&&(o&&(v(o),o=null),o=c(()=>t(n,...a)))},p),h&&(n=l)}var y=e('<div class="font-sans"><!></div>');function T(r,s){var a=y(),n=m(a);u(n,()=>s.children),_(a),i(r,a)}export{T as component};
