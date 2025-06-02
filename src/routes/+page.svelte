@@ -111,15 +111,24 @@
               class="mt-3 text-[#64748b] leading-relaxed text-justify pl-4 border-l-2 border-[#0284c7]"
               in:slide
             >
-              I'm a graduate student at Northeastern University pursuing an MS
-              in Electrical and Computer Engineering with a focus on Computer
-              Vision, Machine Learning, and Algorithms. I bring experience in
-              both academic research and industry, with projects ranging from
-              probabilistic weather modeling to generative satellite imagery.
-              Currently, I serve as an AI Instructional Assistant at CATLR,
-              where I co-design GenAI-integrated teaching strategies. I'm
-              passionate about the intersection of AI, education, and climate
-              resilience.
+              I’m Muhammad Salman, an MS ECE student at Northeastern University
+              (Boston) focused on computer vision, machine learning, and
+              algorithms. Born and raised in Pakistan, I earned my Electrical
+              Engineering degree at LUMS, where I worked on a range of socially
+              meaningful projects—from cGAN- and diffusion-based satellite image
+              generation to surface defect detection and terrorism trend
+              analysis—deepening my expertise in modern deep learning
+              architectures and shaping my commitment to impactful AI. At
+              Northeastern, I’ve continued this trajectory through projects in
+              uncertainty-aware weather forecasting, interactive geospatial
+              dashboards, and Bayesian deep learning for climate modeling. I
+              also serve as an AI Instructional Assistant at the Center for
+              Advancing Teaching and Learning Through Research (CATLR),
+              collaborating with faculty to design AI integrations for the
+              campus education experience. Alongside this, I’m working with the
+              College of Engineering to develop a series of workshops on AI for
+              education, helping shape the future of how we teach and learn with
+              intelligent systems.
             </p>
           {/if}
         </div>
@@ -131,17 +140,48 @@
             on:click={() => (showInterests = !showInterests)}
           >
             Interests
-            <span class="text-sm text-[#64748b]"
-              >{showInterests ? "−" : "+"}</span
-            >
+            <span class="text-sm text-[#64748b]">
+              {showInterests ? "−" : "+"}
+            </span>
           </button>
           {#if showInterests}
             <p
               class="mt-3 text-[#64748b] leading-relaxed text-justify pl-4 border-l-2 border-[#0284c7]"
               in:slide
             >
-              <!-- Add your interests content here -->
-              [Your interests content will go here]
+              I’m passionate about <span class="text-[#0f172a] font-medium"
+                >building and designing socially meaningful AI systems</span
+              >, with a growing focus on:
+              <br /><br />
+              •
+              <span class="font-medium text-[#0f172a]"
+                >AI for climate and sustainability</span
+              >
+              – including geospatial forecasting, wildfire analytics, and probabilistic
+              weather modeling.<br />
+              •
+              <span class="font-medium text-[#0f172a]"
+                >Human–AI interaction and AI for education</span
+              >
+              – especially systems that make learning more accessible, intentional,
+              and student-centered.<br />
+              •
+              <span class="font-medium text-[#0f172a]"
+                >LLM agents for individualized learning</span
+              >
+              – currently exploring how autonomous AI companions can support adaptive,
+              personalized education.
+              <br /><br />
+              Beyond work, I enjoy reading about
+              <span class="font-medium text-[#0f172a]"
+                >history, psychology, economics</span
+              >, and biographies that explore how people think and societies
+              evolve. I also love playing
+              <span class="font-medium text-[#0f172a]">racket sports</span>
+              and always seek out opportunities to
+              <span class="font-medium text-[#0f172a]"
+                >travel and explore nature</span
+              >.
             </p>
           {/if}
         </div>
