@@ -261,13 +261,34 @@
           <div class="flex justify-between items-start">
             <div>
               <p class="font-semibold text-[#0c4a6e]">
+                AI Development Assistant
+              </p>
+              <p class="text-sm text-[#64748b]">
+                Northeastern University, College of Engineering
+              </p>
+            </div>
+            <span class="text-sm text-[#64748b]">May 2025 – Present</span>
+          </div>
+          <p class="mt-2 text-[#64748b]">
+            Collaborating with faculty to design and deliver a series of AI for
+            Education workshops, currently attended by over 50 faculty members.
+            Also building an LLM agent–powered chatbot for a new foundational
+            course teaching five programming languages and frameworks to all
+            first-year engineering students.
+          </p>
+        </div>
+
+        <div class="border-l-2 border-[#0284c7] pl-4">
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-semibold text-[#0c4a6e]">
                 AI Instructional Assistant
               </p>
               <p class="text-sm text-[#64748b]">
                 Northeastern University, CATLR
               </p>
             </div>
-            <span class="text-sm text-[#64748b]">Jan 2025 - Present</span>
+            <span class="text-sm text-[#64748b]">Jan 2025 – Present</span>
           </div>
           <p class="mt-2 text-[#64748b]">
             Selected as one of four graduate students university-wide to
@@ -283,7 +304,7 @@
               <p class="font-semibold text-[#0c4a6e]">Cofounder and Chairman</p>
               <p class="text-sm text-[#64748b]">AMS Enterprises</p>
             </div>
-            <span class="text-sm text-[#64748b]">Jul 2022 - Present</span>
+            <span class="text-sm text-[#64748b]">Jul 2022 – Present</span>
           </div>
           <p class="mt-2 text-[#64748b]">
             Launched a new e-commerce division and led a 10-member team managing
@@ -300,10 +321,10 @@
                 Lahore University of Management Sciences
               </p>
             </div>
-            <span class="text-sm text-[#64748b]">Jan 2023 - May 2023</span>
+            <span class="text-sm text-[#64748b]">Jan 2023 – May 2023</span>
           </div>
           <p class="mt-2 text-[#64748b]">
-            Mentored 60+ students in the Engineering lab course, boosting their
+            Mentored 60+ students in the Engineering Lab course, boosting their
             proficiency in MATLAB, Arduino, and hardware prototyping through
             hands-on guidance and personalized support.
           </p>
@@ -319,7 +340,7 @@
                 Baitussalam Education Foundation
               </p>
             </div>
-            <span class="text-sm text-[#64748b]">May 2017 - Aug 2024</span>
+            <span class="text-sm text-[#64748b]">May 2017 – Aug 2024</span>
           </div>
           <p class="mt-2 text-[#64748b]">
             Led academic content design and pioneered a successful robotics
